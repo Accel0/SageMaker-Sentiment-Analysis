@@ -1,6 +1,6 @@
 # SageMaker-Sentiment-Analysis
 **This project was made for Udacity Nano degree Deep Learning**
-This project can be used to analysis movie, tv shows, and any review for anything in IMDB
+This project can be used to analysis movie, tv shows, and any review for anything in IMDB, and it determines whether that review was positive or negative.
 
 # Requirements:
 This project is written in Python so you need some packages for it to run:
